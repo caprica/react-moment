@@ -2,6 +2,8 @@ react-moment
 ============
 React component for the [moment](http://momentjs.com/) date library.
 
+This is a temporary fork to get rid of deprecation warnings with the latest React version.
+
 [![Build Status](https://img.shields.io/travis/headzoo/react-moment/master.svg?style=flat-square)](https://travis-ci.org/headzoo/react-moment)
 [![Coverage Status](https://img.shields.io/coveralls/github/headzoo/react-moment.svg?style=flat-square)](https://coveralls.io/github/headzoo/react-moment?branch=master)
 [![NPM Downloads](https://img.shields.io/npm/dm/react-moment.svg?style=flat-square)](https://www.npmjs.com/package/react-moment)
