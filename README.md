@@ -11,7 +11,7 @@ e.g. in package.json:
 
 e.g. in your javascript modules:
 
-    import Moment from '@capricasoftware/from '@capricasoftware/react-moment'
+    import Moment from '@capricasoftware/react-moment'
 
 I have no desire to mainain a fork of this library, hopefully the upstream author will make a new
 release soon, at which point this fork will go.
