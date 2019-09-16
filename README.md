@@ -2,7 +2,21 @@ react-moment
 ============
 React component for the [moment](http://momentjs.com/) date library.
 
-This is a temporary fork to get rid of deprecation warnings with the latest React version.
+This is a temporary fork to get rid of deprecation warnings with the latest React version, just
+use '@capricasoftware/react-moment' instead of 'react-moment' in your package.json and your imports.
+
+e.g. in package.json:
+
+    "@capricasoftware/react-moment": "^0.9.2-a"
+
+e.g. in your javascript modules:
+
+    import Moment from '@capricasoftware/from '@capricasoftware/react-moment'
+
+I have no desire to mainain a fork of this library, hopefully the upstream author will make a new
+release soon, at which point this fork will go.
+
+I also updated all dependencies to latest, and applied npm automatic audit fixes.
 
 [![Build Status](https://img.shields.io/travis/headzoo/react-moment/master.svg?style=flat-square)](https://travis-ci.org/headzoo/react-moment)
 [![Coverage Status](https://img.shields.io/coveralls/github/headzoo/react-moment.svg?style=flat-square)](https://coveralls.io/github/headzoo/react-moment?branch=master)
