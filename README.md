@@ -13,7 +13,7 @@ e.g. in your javascript modules:
 
     import Moment from '@capricasoftware/react-moment'
 
-I have no desire to mainain a fork of this library, hopefully the upstream author will make a new
+I have no desire to maintain a fork of this library, hopefully the upstream author will make a new
 release soon, at which point this fork will go.
 
 I also updated all dependencies to latest, and applied npm automatic audit fixes.
